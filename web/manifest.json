@@ -7,7 +7,7 @@
     "theme_color": "#000000",
     "description": "Memorizing your life events",
     "orientation": "portrait-primary",
-    "prefer_related_applications": false,
+    "prefer_related_applications": true,
     "icons": [
         {
             "src": "icons/Icon-192.png",
